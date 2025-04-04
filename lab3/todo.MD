@@ -1,1 +1,0 @@
-#TODO: takie same instrukcje, tylko w pythonie, pętla max, petla porowynywanie, wektorowo porównanie.
